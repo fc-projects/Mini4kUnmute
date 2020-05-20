@@ -1,2 +1,6 @@
 # mini4kunmute
-A very simple android application to unmute my Freebox Mini 4k
+Cette application Android est un workaround au bug suivant :
+https://dev.freebox.fr/bugs/task/22903
+
+
+
